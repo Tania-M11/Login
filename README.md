@@ -1,7 +1,10 @@
 # Login
 
 
-Link: https://fastidious-peony-35fb39.netlify.app/index.html
+Link login: https://fastidious-peony-35fb39.netlify.app/index.html
+
+link página principal:
+https://inquisitive-piroshki-c1fe39.netlify.app/
 
 ![image](https://github.com/user-attachments/assets/b0d46461-601a-4e9c-a892-e28c694f85c3)
 
